@@ -6,6 +6,8 @@
 
 .aligncentre{display:flex; justify-content: center;}
 
+#picture1{display:flex; justify-content: center;}
+
 body {
     background-image: url("./images/background.jpg")
 }
